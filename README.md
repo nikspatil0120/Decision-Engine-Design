@@ -1,4 +1,4 @@
-# Task 6 — Decision Engine
+Decision Engine
 
 ## Overview
 
